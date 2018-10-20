@@ -1,0 +1,490 @@
+{
+    "items": [
+        {
+            "Upper Bound": -10.622,
+            "Significance": -42.763,
+            "t": 0.309,
+            "Standard Error": 6.635,
+            "Parameter": "Intercept",
+            "Lower Bound": -21.443,
+            "Beta (B)": -11.033
+        },
+        {
+            "Upper Bound": 40.622,
+            "Significance": -12.763,
+            "t": 0.109,
+            "Standard Error": 7.635,
+            "Parameter": "Job Time",
+            "Lower Bound": 11.443,
+            "Beta (B)": -22.033
+        },
+        {
+            "Upper Bound": 80.622,
+            "Significance": -72.763,
+            "t": 0.009,
+            "Standard Error": 7.635,
+            "Parameter": "Previous Experience",
+            "Lower Bound": 41.443,
+            "Beta (B)": -23.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -22.763,
+            "t": 0.409,
+            "Standard Error": 9.635,
+            "Parameter": "Birth Date",
+            "Lower Bound": -1.443,
+            "Beta (B)": -14.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -52.763,
+            "t": 0.209,
+            "Standard Error": 60.635,
+            "Parameter": "Job Category",
+            "Lower Bound": 0.443,
+            "Beta (B)": -44.033
+        }
+    ]
+}
+{
+    "items": [
+        {
+            "Upper Bound": -10.622,
+            "Significance": -42.763,
+            "t": 0.309,
+            "Standard Error": 6.635,
+            "Parameter": "Intercept",
+            "Lower Bound": -21.443,
+            "Beta (B)": -11.033
+        },
+        {
+            "Upper Bound": 40.622,
+            "Significance": -12.763,
+            "t": 0.109,
+            "Standard Error": 7.635,
+            "Parameter": "Job Time",
+            "Lower Bound": 11.443,
+            "Beta (B)": -22.033
+        },
+        {
+            "Upper Bound": 80.622,
+            "Significance": -72.763,
+            "t": 0.009,
+            "Standard Error": 7.635,
+            "Parameter": "Previous Experience",
+            "Lower Bound": 41.443,
+            "Beta (B)": -23.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -22.763,
+            "t": 0.409,
+            "Standard Error": 9.635,
+            "Parameter": "Birth Date",
+            "Lower Bound": -1.443,
+            "Beta (B)": -14.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -52.763,
+            "t": 0.209,
+            "Standard Error": 60.635,
+            "Parameter": "Job Category",
+            "Lower Bound": 0.443,
+            "Beta (B)": -44.033
+        }
+    ]
+}
+{
+    "items": [
+        {
+            "Upper Bound": -10.622,
+            "Significance": -42.763,
+            "t": 0.309,
+            "Standard Error": 6.635,
+            "Parameter": "Intercept",
+            "Lower Bound": -21.443,
+            "Beta (B)": -11.033
+        },
+        {
+            "Upper Bound": 40.622,
+            "Significance": -12.763,
+            "t": 0.109,
+            "Standard Error": 7.635,
+            "Parameter": "Job Time",
+            "Lower Bound": 11.443,
+            "Beta (B)": -22.033
+        },
+        {
+            "Upper Bound": 80.622,
+            "Significance": -72.763,
+            "t": 0.009,
+            "Standard Error": 7.635,
+            "Parameter": "Previous Experience",
+            "Lower Bound": 41.443,
+            "Beta (B)": -23.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -22.763,
+            "t": 0.409,
+            "Standard Error": 9.635,
+            "Parameter": "Birth Date",
+            "Lower Bound": -1.443,
+            "Beta (B)": -14.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -52.763,
+            "t": 0.209,
+            "Standard Error": 60.635,
+            "Parameter": "Job Category",
+            "Lower Bound": 0.443,
+            "Beta (B)": -44.033
+        }
+    ]
+}
+{
+    "items": [
+        {
+            "Upper Bound": -10.622,
+            "Significance": -42.763,
+            "t": 0.309,
+            "Standard Error": 6.635,
+            "Parameter": "Intercept",
+            "Lower Bound": -21.443,
+            "Beta (B)": -11.033
+        },
+        {
+            "Upper Bound": 40.622,
+            "Significance": -12.763,
+            "t": 0.109,
+            "Standard Error": 7.635,
+            "Parameter": "Job Time",
+            "Lower Bound": 11.443,
+            "Beta (B)": -22.033
+        },
+        {
+            "Upper Bound": 80.622,
+            "Significance": -72.763,
+            "t": 0.009,
+            "Standard Error": 7.635,
+            "Parameter": "Previous Experience",
+            "Lower Bound": 41.443,
+            "Beta (B)": -23.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -22.763,
+            "t": 0.409,
+            "Standard Error": 9.635,
+            "Parameter": "Birth Date",
+            "Lower Bound": -1.443,
+            "Beta (B)": -14.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -52.763,
+            "t": 0.209,
+            "Standard Error": 60.635,
+            "Parameter": "Job Category",
+            "Lower Bound": 0.443,
+            "Beta (B)": -44.033
+        }
+    ]
+}
+{
+    "items": [
+        {
+            "Upper Bound": -10.622,
+            "Significance": -42.763,
+            "t": 0.309,
+            "Standard Error": 6.635,
+            "Parameter": "Intercept",
+            "Lower Bound": -21.443,
+            "Beta (B)": -11.033
+        },
+        {
+            "Upper Bound": 40.622,
+            "Significance": -12.763,
+            "t": 0.109,
+            "Standard Error": 7.635,
+            "Parameter": "Job Time",
+            "Lower Bound": 11.443,
+            "Beta (B)": -22.033
+        },
+        {
+            "Upper Bound": 80.622,
+            "Significance": -72.763,
+            "t": 0.009,
+            "Standard Error": 7.635,
+            "Parameter": "Previous Experience",
+            "Lower Bound": 41.443,
+            "Beta (B)": -23.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -22.763,
+            "t": 0.409,
+            "Standard Error": 9.635,
+            "Parameter": "Birth Date",
+            "Lower Bound": -1.443,
+            "Beta (B)": -14.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -52.763,
+            "t": 0.209,
+            "Standard Error": 60.635,
+            "Parameter": "Job Category",
+            "Lower Bound": 0.443,
+            "Beta (B)": -44.033
+        }
+    ]
+}
+{
+    "items": [
+        {
+            "Upper Bound": -10.622,
+            "Significance": -42.763,
+            "t": 0.309,
+            "Standard Error": 6.635,
+            "Parameter": "Intercept",
+            "Lower Bound": -21.443,
+            "Beta (B)": -11.033
+        },
+        {
+            "Upper Bound": 40.622,
+            "Significance": -12.763,
+            "t": 0.109,
+            "Standard Error": 7.635,
+            "Parameter": "Job Time",
+            "Lower Bound": 11.443,
+            "Beta (B)": -22.033
+        },
+        {
+            "Upper Bound": 80.622,
+            "Significance": -72.763,
+            "t": 0.009,
+            "Standard Error": 7.635,
+            "Parameter": "Previous Experience",
+            "Lower Bound": 41.443,
+            "Beta (B)": -23.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -22.763,
+            "t": 0.409,
+            "Standard Error": 9.635,
+            "Parameter": "Birth Date",
+            "Lower Bound": -1.443,
+            "Beta (B)": -14.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -52.763,
+            "t": 0.209,
+            "Standard Error": 60.635,
+            "Parameter": "Job Category",
+            "Lower Bound": 0.443,
+            "Beta (B)": -44.033
+        }
+    ]
+}
+{
+    "items": [
+        {
+            "Upper Bound": -10.622,
+            "Significance": -42.763,
+            "t": 0.309,
+            "Standard Error": 6.635,
+            "Parameter": "Intercept",
+            "Lower Bound": -21.443,
+            "Beta (B)": -11.033
+        },
+        {
+            "Upper Bound": 40.622,
+            "Significance": -12.763,
+            "t": 0.109,
+            "Standard Error": 7.635,
+            "Parameter": "Job Time",
+            "Lower Bound": 11.443,
+            "Beta (B)": -22.033
+        },
+        {
+            "Upper Bound": 80.622,
+            "Significance": -72.763,
+            "t": 0.009,
+            "Standard Error": 7.635,
+            "Parameter": "Previous Experience",
+            "Lower Bound": 41.443,
+            "Beta (B)": -23.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -22.763,
+            "t": 0.409,
+            "Standard Error": 9.635,
+            "Parameter": "Birth Date",
+            "Lower Bound": -1.443,
+            "Beta (B)": -14.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -52.763,
+            "t": 0.209,
+            "Standard Error": 60.635,
+            "Parameter": "Job Category",
+            "Lower Bound": 0.443,
+            "Beta (B)": -44.033
+        }
+    ]
+}
+{
+    "items": [
+        {
+            "Upper Bound": -10.622,
+            "Significance": -42.763,
+            "t": 0.309,
+            "Standard Error": 6.635,
+            "Parameter": "Intercept",
+            "Lower Bound": -21.443,
+            "Beta (B)": -11.033
+        },
+        {
+            "Upper Bound": 40.622,
+            "Significance": -12.763,
+            "t": 0.109,
+            "Standard Error": 7.635,
+            "Parameter": "Job Time",
+            "Lower Bound": 11.443,
+            "Beta (B)": -22.033
+        },
+        {
+            "Upper Bound": 80.622,
+            "Significance": -72.763,
+            "t": 0.009,
+            "Standard Error": 7.635,
+            "Parameter": "Previous Experience",
+            "Lower Bound": 41.443,
+            "Beta (B)": -23.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -22.763,
+            "t": 0.409,
+            "Standard Error": 9.635,
+            "Parameter": "Birth Date",
+            "Lower Bound": -1.443,
+            "Beta (B)": -14.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -52.763,
+            "t": 0.209,
+            "Standard Error": 60.635,
+            "Parameter": "Job Category",
+            "Lower Bound": 0.443,
+            "Beta (B)": -44.033
+        }
+    ]
+}
+{
+    "items": [
+        {
+            "Upper Bound": -10.622,
+            "Significance": -42.763,
+            "t": 0.309,
+            "Standard Error": 6.635,
+            "Parameter": "Intercept",
+            "Lower Bound": -21.443,
+            "Beta (B)": -11.033
+        },
+        {
+            "Upper Bound": 40.622,
+            "Significance": -12.763,
+            "t": 0.109,
+            "Standard Error": 7.635,
+            "Parameter": "Job Time",
+            "Lower Bound": 11.443,
+            "Beta (B)": -22.033
+        },
+        {
+            "Upper Bound": 80.622,
+            "Significance": -72.763,
+            "t": 0.009,
+            "Standard Error": 7.635,
+            "Parameter": "Previous Experience",
+            "Lower Bound": 41.443,
+            "Beta (B)": -23.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -22.763,
+            "t": 0.409,
+            "Standard Error": 9.635,
+            "Parameter": "Birth Date",
+            "Lower Bound": -1.443,
+            "Beta (B)": -14.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -52.763,
+            "t": 0.209,
+            "Standard Error": 60.635,
+            "Parameter": "Job Category",
+            "Lower Bound": 0.443,
+            "Beta (B)": -44.033
+        }
+    ]
+}
+{
+    "items": [
+        {
+            "Upper Bound": -10.622,
+            "Significance": -42.763,
+            "t": 0.309,
+            "Standard Error": 6.635,
+            "Parameter": "Intercept",
+            "Lower Bound": -21.443,
+            "Beta (B)": -11.033
+        },
+        {
+            "Upper Bound": 40.622,
+            "Significance": -12.763,
+            "t": 0.109,
+            "Standard Error": 7.635,
+            "Parameter": "Job Time",
+            "Lower Bound": 11.443,
+            "Beta (B)": -22.033
+        },
+        {
+            "Upper Bound": 80.622,
+            "Significance": -72.763,
+            "t": 0.009,
+            "Standard Error": 7.635,
+            "Parameter": "Previous Experience",
+            "Lower Bound": 41.443,
+            "Beta (B)": -23.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -22.763,
+            "t": 0.409,
+            "Standard Error": 9.635,
+            "Parameter": "Birth Date",
+            "Lower Bound": -1.443,
+            "Beta (B)": -14.033
+        },
+        {
+            "Upper Bound": 10.622,
+            "Significance": -52.763,
+            "t": 0.209,
+            "Standard Error": 60.635,
+            "Parameter": "Job Category",
+            "Lower Bound": 0.443,
+            "Beta (B)": -44.033
+        }
+    ]
+}
